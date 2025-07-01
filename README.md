@@ -59,7 +59,7 @@ HR_Dashboard_Tableau_Project/
 
 ## 📸 Screenshots
 
-![HR Summary Dashboard](Screenshot/HRSummary.png)
+[![HR Summary Dashboard](https://github.com/harry16102003/HR_Tableau_Dashboard_Project/blob/main/Screenshot/HR%20Summary.png?raw=true)](https://public.tableau.com/app/profile/harsh.bandal/viz/HRDashboard_17513104958170/HRSummary?publish=yes)
 
 ---
 
