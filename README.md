@@ -59,7 +59,7 @@ HR_Dashboard_Tableau_Project/
 
 ## 📸 Screenshots
 
-![HR Dashboard]C:\Users\ADMIN\Desktop\Tableau Project\HR Dashboard Project\Screenshot)
+![HR Dashboard]("C:\Users\ADMIN\Desktop\Tableau Project\HR Dashboard Project\Screenshot")
 
 ---
 
