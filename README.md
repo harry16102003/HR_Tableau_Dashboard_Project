@@ -42,8 +42,6 @@ This project presents an **interactive HR dashboard** created using **Tableau** 
 ## 🛠️ Tools & Technologies
 
 - **Tableau Public** – For interactive dashboards and data visualization  
-- **Microsoft Excel** – For initial data cleaning  
-- *(Optional)* Python or Pandas – If additional preprocessing was used
 
 ---
 
