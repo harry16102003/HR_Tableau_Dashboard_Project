@@ -59,7 +59,8 @@ HR_Dashboard_Tableau_Project/
 
 ## 📸 Screenshots
 
-![HR Dashboard]("C:\Users\ADMIN\Desktop\Tableau Project\HR Dashboard Project\Screenshot")
+[![HR Summary Dashboard](Screenshot/HR%20Summary.png)](https://public.tableau.com/app/profile/harsh.bandal/viz/HRDashboard_17513104958170/HRSummary?publish=yes)
+
 
 ---
 
