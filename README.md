@@ -59,10 +59,7 @@ HR_Dashboard_Tableau_Project/
 
 ## 📸 Screenshots
 
-## 📸 Dashboard Screenshot
-
-![HR Summary Dashboard](Screenshot/HR%20Summary.png)
-
+![HR Summary Dashboard](Screenshot/HRSummary.png)
 
 ---
 
