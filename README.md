@@ -48,10 +48,10 @@ This project presents an **interactive HR dashboard** created using **Tableau** 
 ## 📁 Repository Structure
 
 HR_Dashboard_Tableau_Project/
-├── README.md /br
-├── HR_Dashboard.twb # Tableau Workbook (if available)
-├── Dataset.csv # HR dataset used (if allowed to upload)
-└── Screenshots/ # Visual previews of the dashboard
+├── README.md # Project overview and documentation
+├── HR_Dashboard.twb # Tableau workbook file 
+├── Dataset.csv # HR dataset used 
+└── Screenshots/ # Folder containing dashboard screenshots
 ├── dashboard1.png
 └── dashboard2.png
 
